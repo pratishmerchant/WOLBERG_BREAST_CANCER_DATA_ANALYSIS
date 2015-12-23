@@ -1,0 +1,10 @@
+Thickness : 5363.185
+Size : 6290.48
+Shape : 5971.547
+Marginal Adhesion 5574.587
+Single Epithelial CS 3287.407
+Bare Nuclei 3102.421
+Bland Chromatin 4058.554
+Normal Nucleoli 6334.216
+Mitoses 2042.963
+613.9496

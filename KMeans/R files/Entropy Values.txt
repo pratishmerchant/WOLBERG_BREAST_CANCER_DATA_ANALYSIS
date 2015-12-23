@@ -1,0 +1,20 @@
+> entropy(cleaned_data_breast_cancer$Thickness)
+[1] 6.310634
+> entropy(cleaned_data_breast_cancer$`Cell Size`)
+[1] 6.111481
+> entropy(cleaned_data_breast_cancer$`Cell Shape`)
+[1] 6.138426
+> entropy(cleaned_data_breast_cancer$`Marginal Adhesion`)
+[1] 6.105003
+> entropy(cleaned_data_breast_cancer$`Single Epithelial CS`)
+[1] 6.324374
+> entropy(as.numeric(cleaned_data_breast_cancer$`Bare Nuclei`))
+[1] 6.344368
+> entropy(cleaned_data_breast_cancer$`Bland Chromatin`)
+[1] 6.284522
+> entropy(cleaned_data_breast_cancer$`Normal Nucleoli`)
+[1] 6.06034
+> entropy(cleaned_data_breast_cancer$Mitoses)
+[1] 6.179103
+> entropy(cleaned_data_breast_cancer$Class)
+[1] 6.455415

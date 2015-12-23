@@ -1,0 +1,17 @@
+Please enter input for no of clusters K :  2
+K = 2
+
+
+Total number of elements in C0 : 598
+Total number of elements in C1 : 93
+%%%%%%%%%%%%%%%%%%%%%  Round  1 %%%%%%%%%%%%%%%%%%%%%
+Total number of elements in C0 : 488
+Total number of elements in C1 : 203
+%%%%%%%%%%%%%%%%%%%%%  Round  2 %%%%%%%%%%%%%%%%%%%%%
+Total number of elements in C0 : 458
+Total number of elements in C1 : 233
+%%%%%%%%%%%%%%%%%%%%%  Round  3 %%%%%%%%%%%%%%%%%%%%%
+Total number of elements in C0 : 455
+Total number of elements in C1 : 236
+%%%%%%%%%%%%%%%%%%%%%  Round  4 %%%%%%%%%%%%%%%%%%%%%
+Convergence has been met
